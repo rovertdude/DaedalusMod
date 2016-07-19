@@ -1,6 +1,6 @@
-name: DaedalusMod
+name: Vicki-Essentials
 version: 1.0
-description: An add-on plugin for TotalFreedomMod
+description: An add-on plugin for VickiFreedom
 authors: [Wild1145]
 softdepend: [Aero, TotalFreedomMod]
 main: com.superiornetworks.daedalusmod.DaedalusMod
